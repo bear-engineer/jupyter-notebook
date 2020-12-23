@@ -6,7 +6,7 @@
 - python
 - jdk ^1.8
 
-## Setting
+## Setting(for Mac)
 
 ### kotlin jupyter 커널 서브모듈 세팅
 
