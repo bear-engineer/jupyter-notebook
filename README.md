@@ -4,6 +4,7 @@
 - kotlin
 - go
 - python
+- jdk ^1.8
 
 ## Setting
 
