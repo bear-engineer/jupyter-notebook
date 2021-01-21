@@ -1,8 +1,5 @@
 #!/bin/bash
-git submodule init
-git submodule sync
-git submodule update
-
+git clone https://github.com/Kotlin/kotlin-jupyter.git
 cd ./kotlin-jupyter
 ./gradlew install
 cd ..
